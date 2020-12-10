@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there :wave:
 
-<!--
-**yann-eugone/yann-eugone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:smile: My name is **Yann** (say _Ian_).
 
-Here are some ideas to get you started:
+:round_pushpin: I'm living around **Lyon in France**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:fr: :gb: I speak french and english. 
+
+:office: I'm working as a **Backend developer** at @prestaconcept.
+
+:stars: I'm pretty good with `PHP` & `Symfony`. Working with the first one since `5.2` and `1.4` with the other.
+
+:japanese_goblin: I write/maintain Open Source libraries in the @yokai-php oranisation.
+
+:smile_cat: I'm a cat person (but I like al kind of animal)
