@@ -8,7 +8,7 @@
 
 :office: I'm working as a **Backend developer** at [@prestaconcept](https://github.com/prestaconcept).
 
-:stars: I'm pretty good with **PHP** & **Symfony**. Working with the first one since `5.2` and `1.4` with the other.
+:stars: I'm pretty good with **PHP** (since `5.2`) & **Symfony** (since `1.4`).
 
 :japanese_goblin: I write/maintain **Open Source** libraries in the [@yokai-php](https://github.com/yokai-php) organisation.
 
