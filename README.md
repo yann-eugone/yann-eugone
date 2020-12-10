@@ -10,6 +10,6 @@
 
 :stars: I'm pretty good with **PHP** & **Symfony**. Working with the first one since `5.2` and `1.4` with the other.
 
-:japanese_goblin: I write/maintain **Open Source** libraries in the [@yokai-php](https://github.com/yokai-php) oranisation.
+:japanese_goblin: I write/maintain **Open Source** libraries in the [@yokai-php](https://github.com/yokai-php) organisation.
 
 :smile_cat: I'm a **cat** person (but I like al kind of animal)
