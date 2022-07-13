@@ -6,7 +6,7 @@
 
 :fr: :gb: I speak french and english. 
 
-:office: I'm working as a **Backend developer** at [@prestaconcept](https://github.com/prestaconcept).
+:office: I'm working as a **Senior Software Engineer** at [@shippeo](https://github.com/shippeo).
 
 :stars: I'm pretty good with **PHP** (since `5.2`) & **Symfony** (since `1.4`).
 
